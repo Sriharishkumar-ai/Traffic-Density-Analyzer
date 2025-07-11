@@ -1,8 +1,3 @@
-Here is your **Traffic Density Analyzer README** in **clean copy-paste format** for GitHub:
-
----
-
-```markdown
 # 🚦 Traffic Density Analyzer
 
 > **AI-powered Streamlit web application to analyze traffic density in highway videos using YOLOv8**
